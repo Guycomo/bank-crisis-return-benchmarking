@@ -13,7 +13,7 @@ Four banks were chosen deliberately to represent different kinds of crisis:
 - **Punjab National Bank (PNB)** — hit by a large-scale fraud case (the Nirav Modi scandal) uncovered in 2018, a governance/fraud-driven shock rather than a market one
 - **Axis Bank** — a large private bank without a major standalone crisis in this period, included as a comparative benchmark
 
-All four are measured against the **Bank Nifty index**, which represents the sector as a whole.
+All four are measured against the  **Bank Nifty index**, which represents the sector as a whole.
 
 ## What this project does
 
